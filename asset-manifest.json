@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-app-build-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-app-build-test/static/js/main.1dceff76.chunk.js",
+    "main.js.map": "/react-app-build-test/static/js/main.1dceff76.chunk.js.map",
+    "runtime-main.js": "/react-app-build-test/static/js/runtime-main.95b055cc.js",
+    "runtime-main.js.map": "/react-app-build-test/static/js/runtime-main.95b055cc.js.map",
+    "static/js/2.da3882de.chunk.js": "/react-app-build-test/static/js/2.da3882de.chunk.js",
+    "static/js/2.da3882de.chunk.js.map": "/react-app-build-test/static/js/2.da3882de.chunk.js.map",
+    "index.html": "/react-app-build-test/index.html",
+    "precache-manifest.a7d6dda160fe97282bef223bc30dbbbc.js": "/react-app-build-test/precache-manifest.a7d6dda160fe97282bef223bc30dbbbc.js",
+    "service-worker.js": "/react-app-build-test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-app-build-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.da3882de.chunk.js.LICENSE.txt": "/react-app-build-test/static/js/2.da3882de.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-app-build-test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95b055cc.js",
+    "static/js/2.da3882de.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1dceff76.chunk.js"
+  ]
+}
